@@ -16,6 +16,7 @@ body{
     margin-left:9px;
 
 }
+
 .day-n-night {
     position: fixed;
     z-index: 25;
@@ -34,21 +35,26 @@ body{
 #coupon{
     height:200px;
     width:400px;
-    background-color:grey;
+    background-color:lightslategray;
     z-index: 100;
     position: absolute;
     display: none;
     margin-left: 40%;
     margin-top:-349px;
 }
+#coup{
+    margin-top: -12px;
+    margin-left:118px;
+}
 .p3{
-    margin-left:30px
+    margin-left:52px;
+    margin-top:9px;
 }
 .c1{
-    height:71px;
-    width:216px;
-    margin-left:10px;
-    margin-top:10px;
+    height:33px;
+    width:233px;
+    margin-left:39px;
+    margin-top:1px;
 }
 .head1{
     width:9%;
